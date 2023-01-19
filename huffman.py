@@ -75,4 +75,4 @@ while len(nodes) > 1:
 	heapq.heappush(nodes, newNode)
 
 # Huffman Tree is ready!
-printNodes(nodes[0])
+
